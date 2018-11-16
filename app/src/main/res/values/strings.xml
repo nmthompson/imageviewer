@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Picture Viewer</string>
+    <string name="search_btn">Search</string>
+    <string name="search_view_hint">Search Images</string>
+
+    <string name="user_detail">USER: %1s</string>
+    <string name="image_likes">LIKES: %1s</string>
+    <string name="downloads_detail">DOWNLOADS: %1s</string>
+    <string name="tags_detail">TAGS: %1s</string>
+    <string name="acc_image_view">Square content image</string>
+</resources>
